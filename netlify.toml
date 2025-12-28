@@ -1,5 +1,5 @@
 [[redirects]]
     from = "/*"
-    to = "https://google.com:80/:splat"
+    to = "https://www.google.com:80/:splat"
     status = 200
     force = true
